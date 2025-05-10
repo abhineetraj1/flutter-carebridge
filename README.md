@@ -1,5 +1,9 @@
 # Carebridge
 
+
+https://github.com/user-attachments/assets/e77e9ab5-210c-46ef-865d-8e5d8040c7e6
+
+
 Carebridge is a mobile application designed to streamline the connection between caretakers and elderly patients, facilitating the efficient management and booking of caregiving services. The platform allows caretakers to sign up, indicating their availability, while patients can search and book caretakers based on proximity. The app incorporates an OTP verification process to ensure secure session initiation. Additionally, a caretaker availability algorithm ensures that only free caretakers are assigned, optimizing both patient care and system performance. Carebridge aims to improve the caregiving experience for both patients and caretakers through enhanced efficiency, security, and adaptability.
 
 ## Workflow
